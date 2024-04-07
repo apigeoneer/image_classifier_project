@@ -1,0 +1,1 @@
+# predict.py script successfully reads in an image and a checkpoint then prints the most likely image class and it's associated probability

@@ -1,0 +1,1 @@
+# train.py script successfully trains a new network on a dataset of images and saves the model to a checkpoint
